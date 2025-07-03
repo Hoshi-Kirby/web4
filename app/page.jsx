@@ -43,7 +43,10 @@ const page = () => {
       <div>
         <a href="/test">掲示barn</a>
       </div>
-      <a href="/test2">掲示バーン</a>
+      <div>
+        <a href="/test2">掲示バーン</a>
+      </div>
+      <a href="/test3">掲示VAN</a>
     </div>
   );
 };
